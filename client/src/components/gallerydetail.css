@@ -1,0 +1,17 @@
+.mainitems {
+    display: flex;
+    flex-direction: row;
+    padding: 3%;
+}
+img.imagedet {
+    width: 86%;
+}
+.galleryImagedet {
+    padding: 3%;
+    background-color: ghostwhite;
+}
+.gitemInfo {
+    height: 73%;
+    width: 85% !important;
+    padding: 5%;
+}

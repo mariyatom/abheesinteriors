@@ -1,0 +1,31 @@
+.footerdiv {
+    background-color: #181818;
+}
+.getIntouchContent2 , .linksdata{
+    color: white;
+}
+.getIntouchContent , .quicklinksHeads, .popularLinksHead{
+    color: blue;
+}
+.footersub {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 3%;
+}
+.getintouch {
+    width: 33%;
+}
+.quicklinks {
+    width: 21%;
+}
+.popularLinks {
+    width: 20%;
+}
+.footercopyright {
+    border-top: 1px solid white;
+    padding: 3%;
+    text-align: center;
+    color: white;
+    font-size: 21px;
+}

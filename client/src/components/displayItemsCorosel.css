@@ -1,0 +1,10 @@
+
+img.officeimage {
+    max-height: 341px;
+}
+.coroselDivs {
+    display: flex;
+}
+.itemdisplay {
+    padding: 2%;
+}

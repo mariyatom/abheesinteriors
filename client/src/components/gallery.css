@@ -1,0 +1,34 @@
+.center {
+    text-align: center;
+  }
+  .galleryroom {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 6px 7px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    border-radius: 4px;
+    width: 33%;
+    
+}
+
+.galleryRoomName {
+    text-align: left;
+    width: 34%;
+    padding: 5%;
+}
+img.galleryImage {
+    width: 100%;
+    height: 100%;
+}
+.galleryR {
+    padding: 3%;
+    display: flex;
+    width: 100%;
+}
+.buttonMore {
+    color: white;
+}
+.gdesign {
+    width: 100%;
+    height: 100%;
+}

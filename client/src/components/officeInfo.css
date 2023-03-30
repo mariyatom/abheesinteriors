@@ -1,0 +1,17 @@
+.officeInfoData{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 3%;
+}
+.officeAddress, .officeMail, .officePhone{
+    width: 33%;
+    display: flex;
+}
+.buildImage {
+    padding: 3%;
+}
+img.flat {
+    color: blue;
+    height: 32%;
+}

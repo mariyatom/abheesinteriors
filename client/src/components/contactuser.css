@@ -1,0 +1,44 @@
+.contactUserPage {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 9999;
+    top: 0px;
+    left: 10px;
+}
+.sendmessagePage {
+    display: block;
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 99999;
+    background-color: rgb(38 38 1 / 8%);
+    border: 1px solid lightgray;
+}
+.close {
+    padding-right: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.text-center {
+    text-align: center!important;
+    color: blue;
+    font-weight: bold;
+    padding: 4%;
+}
+.submitMessage{
+    float: right;
+}
+.formInputClass {
+    padding: 3%;
+}
+.closeButn {
+    margin-top: 4%;
+    margin-right: 4%;
+    font-size: 25px;
+}
+.inputClass {
+    margin-bottom: 6% !important;
+}

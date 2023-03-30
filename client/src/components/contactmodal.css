@@ -1,0 +1,18 @@
+.sendmessagePage{
+    border: none !important;
+    background-color: none;
+}
+.submitMessage {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    float: none !important;
+}
+
+  body.modal-open{
+    overflow: unset !important;
+  }
+  .modal-content{
+    background-color: rgba(0, 0, 0, 0.075);
+    border:1px solid white;
+  }

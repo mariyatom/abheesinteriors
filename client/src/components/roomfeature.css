@@ -1,0 +1,54 @@
+.center {
+    text-align: center;
+  }
+  .livingroom {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-left: 3%;
+    background-color: #f8f6f6;
+    max-height: 94% !important;
+}
+.lgdesign {
+    width: 30%;
+    background-color: #0078ff;
+    height: 59%;
+}
+.livingRoomName {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 52vh;
+}
+.title {
+    font-weight: 400 !important;
+    color: white;
+}
+.desg {
+    font-weight: 600 !important;
+}
+.imageCoroselDiv {
+    width: 40%;
+    padding-left: 4%;
+    padding-top: 3%;
+    display: flex;
+}
+.extraLivingImages{
+    width: 70%;
+}
+img.livingimage {
+    max-height: 341px;
+}
+.rightArrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leftArrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 25%;
+}
